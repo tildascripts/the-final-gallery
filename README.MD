@@ -12,7 +12,7 @@
 ``` 
 2. Теперь надо инициализировать нашу галерею. Для этого сразу ниже вставь вот этот код:
 ```html
-<script type="text/javascript>
+<script type="text/javascript">
 	new TheFinalGallery({
 		destination: "[data-elem-id='123456789']",
 
